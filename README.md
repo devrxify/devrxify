@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Devrxify!
+## Hi there 👋 I’m Nouman Shakeel!
 
 I’m a 4th-semester BS Information Technology student passionate about **Cloud Architecture** and **Machine Learning**. My goal is to become a skilled Cloud Architect and ML expert, building scalable systems and intelligent solutions that make an impact. I’m currently diving into the fundamentals of cloud computing, exploring platforms like AWS, and sharpening my skills in data structures and algorithms to support my CA and ML journey.
 
