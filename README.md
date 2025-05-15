@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Nouman Shakeel!
 
-I’m a 4th-semester BS Information Technology student passionate about **Cloud Architecture** and **Machine Learning**. My goal is to become a skilled Cloud Architect and ML expert, building scalable systems and intelligent solutions that make an impact. I’m currently diving into the fundamentals of cloud computing, exploring platforms like AWS, and sharpening my skills in data structures and algorithms to support my CA and ML journey.
+I’m a 4th-semester BS Information Technology student passionate about **Cloud Architecture** and **Machine Learning**. My goal is to become a skilled Cloud Architect and ML expert, building scalable systems and intelligent solutions that make an impact. I’m currently diving into the fundamentals of cloud computing and exploring platforms like AWS
 
 ### 🔭 What I’m Working On
 - Learning the basics of Cloud Architecture, starting with concepts like IaaS, PaaS, and SaaS, and setting up my AWS free-tier account as part of a 12-week mastery course.
@@ -8,7 +8,6 @@ I’m a 4th-semester BS Information Technology student passionate about **Cloud 
 
 ### 🌱 What I’m Learning
 - Cloud computing fundamentals: service models, deployment models (public, private, hybrid), and key characteristics like rapid elasticity.
-- Data Structures & Algorithms (DSA) to strengthen my programming foundation—recently explored priority queues and DFAs.
 - Foundations of Machine Learning, aiming to understand data preprocessing and model deployment on cloud platforms.
 
 ### 👯 I’d Love to Collaborate On
@@ -24,7 +23,6 @@ I’m a 4th-semester BS Information Technology student passionate about **Cloud 
 ### 💬 Ask Me About
 - My journey as a BSIT student balancing academics with hands-on tech projects.
 - Basics of cloud computing—I’m just starting, but I’d love to share what I’ve learned!
-- Data structures and algorithms, like my recent work on priority queues and DFAs.
 
 ### 📫 How to Reach Me
 - 📧 Email: thedevaspect@gmail.com
@@ -41,7 +39,7 @@ I’m a huge fan of solving puzzles—whether it’s coding challenges, designin
 ### 🛠️ My Tech Stack (Work in Progress)
 - **Languages**: C++ & Python
 - **Tools/Platforms**: AWS (learning), Git, GitHub
-- **Concepts**: Cloud Computing (IaaS, PaaS, SaaS), Data Structures (priority queues, linked lists), Machine Learning
+- **Concepts**: Cloud Computing (IaaS, PaaS, SaaS), Machine Learning
 
 ### 📈 My Goals for 2025
 - Master Cloud Architecture fundamentals and deploy a web app on AWS by mid-2025.
