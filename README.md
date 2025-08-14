@@ -3,7 +3,7 @@
 I’m a 5th-semester BS Information Technology student passionate about **Cloud Architecture** and **Machine Learning**. My goal is to become a skilled Cloud Architect and ML expert, building scalable systems and intelligent solutions that make an impact. I’m currently diving into the fundamentals of cloud computing and exploring platforms like AWS
 
 ### 🔭 What I’m Working On
-- Learning the basics of Cloud Architecture, starting with concepts like IaaS, PaaS, and SaaS, and setting up my AWS free-tier account as part of a 12-week mastery course.
+- Learning the basics of Cloud Architecture.
 - Exploring small projects to apply my skills in cloud computing and prepare for ML applications.
 
 ### 🌱 What I’m Learning
