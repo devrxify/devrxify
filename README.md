@@ -20,7 +20,7 @@ A final-year Information Technology student on a mission to become a **Cloud & M
 
 ---
 
-### 📫 How to Reach Me:
+### How to Reach Me:
 
 *You can find me on:*
 
