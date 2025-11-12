@@ -1,10 +1,10 @@
-# Hi there, I'm Nouman Shakeel 👋
+# Hi there, I'm Nouman Shakeel
 
 A final-year Information Technology student on a mission to become a **Cloud & Machine Learning Engineer**. I'm passionate about designing scalable cloud infrastructure and building intelligent applications on platforms like AWS.
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -12,7 +12,7 @@ A final-year Information Technology student on a mission to become a **Cloud & M
 
 ---
 
-### 🌱 What I'm Currently Learning
+### What I'm Currently Learning
 
 * **Cloud Architecture:** Mastering virtualization, cloud storage, networking, and security fundamentals.
 * **DevOps Practices:** Exploring Continuous Integration & Delivery (CI/CD) in a cloud environment.
