@@ -1,6 +1,6 @@
 # Hi there, I'm Nouman Shakeel
 
-A final-year Information Technology student on a mission to become a **Cloud & Machine Learning Engineer**. I'm passionate about designing scalable cloud infrastructure and building intelligent applications on platforms like AWS.
+A final-year Information Technology student on a mission to become a **Cloud Architect**. I'm passionate about designing scalable cloud infrastructure and building intelligent applications on platforms like AWS.
 
 ---
 
